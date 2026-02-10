@@ -8,4 +8,4 @@
 // git add .                         // stage all changes
 // git commit -m "initial commit"    // commit changes
 // git remote add origin <repo_url>  // connect to remote repo
-// git push -u origin main           // push & set upstream
+// git push origin main           // push & set upstream
